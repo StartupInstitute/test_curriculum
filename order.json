@@ -6,12 +6,14 @@
 			{
 				"name":"1-Lab",
 				"path":"1-Lab.md",
-				"order":0
+				"order":0,
+				"hidden": false	
 			},
 			{
 				"name":"2-Lab",
 				"path":"2-Lab.md",
-				"order":1
+				"order":1,
+				"hidden": false
 			}
 		]
 	},
@@ -22,12 +24,14 @@
 			{
 				"name":"1-Lab",
 				"path":"1-Lab.md",
-				"order":0
+				"order":0,
+				"hidden": false
 			},
 			{
 				"name":"2-Lab",
 				"path":"2-Lab.md",
-				"order":1
+				"order":1,
+				"hidden": false
 			}
 		]
 	},
@@ -38,12 +42,14 @@
 			{
 				"name":"1-Lab",
 				"path":"1-Lab.md",
-				"order":0
+				"order":0,
+				"hidden": false
 			},
 			{
 				"name":"2-Lab",
 				"path":"2-Lab.md",
-				"order":1
+				"order":1,
+				"hidden": true
 			}
 		]
 	},
@@ -54,12 +60,14 @@
 			{
 				"name":"1-Lab",
 				"path":"1-Lab.md",
-				"order":0
+				"order":0,
+				"hidden": false
 			},
 			{
 				"name":"2-Lab",
 				"path":"2-Lab.md",
-				"order":1
+				"order":1,
+				"hidden": true
 			}
 		]
 	}
