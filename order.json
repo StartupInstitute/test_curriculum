@@ -64,6 +64,12 @@
         "path": "2-Lab.md",
         "order": 1,
         "hidden": true
+      },
+      {
+        "name": "3-Lab",
+        "path": "3-Lab.md",
+        "order": 2,
+        "hidden": true
       }
     ]
   }
