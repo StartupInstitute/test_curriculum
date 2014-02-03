@@ -1,1 +1,76 @@
-W3sibmFtZSI6InByb2R1Y3QiLCJmaWxlcyI6IltvYmplY3QgT2JqZWN0XSxbb2JqZWN0IE9iamVjdF1bb2JqZWN0IE9iamVjdF0ifSx7Im5hbWUiOiJkZXZlbG9wbWVudCIsImZpbGVzIjpbeyJuYW1lIjoiMS1MYWIiLCJwYXRoIjoiMS1MYWIubWQiLCJvcmRlciI6MCwiaGlkZGVuIjpmYWxzZX0seyJuYW1lIjoiMi1MYWIiLCJwYXRoIjoiMi1MYWIubWQiLCJvcmRlciI6MSwiaGlkZGVuIjpmYWxzZX1dfSx7Im5hbWUiOiJtYXJrZXRpbmciLCJmaWxlcyI6W3sibmFtZSI6IjEtTGFiIiwicGF0aCI6IjEtTGFiLm1kIiwib3JkZXIiOjAsImhpZGRlbiI6ZmFsc2V9LHsibmFtZSI6IjItTGFiIiwicGF0aCI6IjItTGFiLm1kIiwib3JkZXIiOjEsImhpZGRlbiI6dHJ1ZX1dfSx7Im5hbWUiOiJzYWxlcyIsImZpbGVzIjpbeyJuYW1lIjoiMS1MYWIiLCJwYXRoIjoiMS1MYWIubWQiLCJvcmRlciI6MCwiaGlkZGVuIjpmYWxzZX0seyJuYW1lIjoiMi1MYWIiLCJwYXRoIjoiMi1MYWIubWQiLCJvcmRlciI6MSwiaGlkZGVuIjp0cnVlfSx7Im5hbWUiOiIzLUxhYiIsInBhdGgiOiIzLUxhYi5tZCIsIm9yZGVyIjoyLCJoaWRkZW4iOnRydWV9XX1d
+[
+  {
+    "name": "product",
+    "files": [
+      {
+        "name": "1-Lab",
+        "path": "1-Lab.md",
+        "order": 0,
+        "hidden": false
+      },
+      {
+        "name": "2-Lab",
+        "path": "2-Lab.md",
+        "order": 1,
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "name": "development",
+    "files": [
+      {
+        "name": "1-Lab",
+        "path": "1-Lab.md",
+        "order": 0,
+        "hidden": false
+      },
+      {
+        "name": "2-Lab",
+        "path": "2-Lab.md",
+        "order": 1,
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "name": "marketing",
+    "files": [
+      {
+        "name": "1-Lab",
+        "path": "1-Lab.md",
+        "order": 0,
+        "hidden": false
+      },
+      {
+        "name": "2-Lab",
+        "path": "2-Lab.md",
+        "order": 1,
+        "hidden": true
+      }
+    ]
+  },
+  {
+    "name": "sales",
+    "files": [
+      {
+        "name": "1-Lab",
+        "path": "1-Lab.md",
+        "order": 0,
+        "hidden": false
+      },
+      {
+        "name": "2-Lab",
+        "path": "2-Lab.md",
+        "order": 1,
+        "hidden": true
+      },
+      {
+        "name": "3-Lab",
+        "path": "3-Lab.md",
+        "order": 2,
+        "hidden": true
+      }
+    ]
+  }
+]
