@@ -1,1 +1,76 @@
-{"product":[{"name":"2-Lab","path":"2-Lab.md","hidden":false},{"name":"1-Lab","path":"1-Lab.md","hidden":false}],"development":[{"name":"1-Lab","path":"1-Lab.md","hidden":false},{"name":"2-Lab","path":"2-Lab.md","hidden":false}],"marketing":[{"name":"1-Lab","path":"1-Lab.md","hidden":false},{"name":"2-Lab","path":"2-Lab.md","hidden":true}],"sales":[{"name":"1-Lab","path":"1-Lab.md","hidden":false},{"name":"2-Lab","path":"2-Lab.md","hidden":true},{"name":"3-Lab","path":"3-Lab.md","hidden":true}]}
+[
+  {
+    "name": "product",
+    "files": [
+      {
+        "name": "1-Lab",
+        "path": "1-Lab.md",
+        "order": 0,
+        "hidden": false
+      },
+      {
+        "name": "2-Lab",
+        "path": "2-Lab.md",
+        "order": 1,
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "name": "development",
+    "files": [
+      {
+        "name": "1-Lab",
+        "path": "1-Lab.md",
+        "order": 0,
+        "hidden": false
+      },
+      {
+        "name": "2-Lab",
+        "path": "2-Lab.md",
+        "order": 1,
+        "hidden": false
+      }
+    ]
+  },
+  {
+    "name": "marketing",
+    "files": [
+      {
+        "name": "1-Lab",
+        "path": "1-Lab.md",
+        "order": 0,
+        "hidden": false
+      },
+      {
+        "name": "2-Lab",
+        "path": "2-Lab.md",
+        "order": 1,
+        "hidden": true
+      }
+    ]
+  },
+  {
+    "name": "sales",
+    "files": [
+      {
+        "name": "1-Lab",
+        "path": "1-Lab.md",
+        "order": 0,
+        "hidden": false
+      },
+      {
+        "name": "2-Lab",
+        "path": "2-Lab.md",
+        "order": 1,
+        "hidden": true
+      },
+      {
+        "name": "3-Lab",
+        "path": "3-Lab.md",
+        "order": 2,
+        "hidden": true
+      }
+    ]
+  }
+]
