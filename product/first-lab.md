@@ -1,4 +1,4 @@
-## **JIntensive: Intro to Javascript**
+## **KIntensive: Intro to Javascript**
 
 Intensives are directly facilitated by an instructor and should be individualized to that instructor’s experiences, using the Startup Institute Core Instructional Practices. Intensives are primarily instructor led.
 
